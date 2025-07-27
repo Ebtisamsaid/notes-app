@@ -72,8 +72,21 @@ Project Structure
 
 smart-note-app/
 
-├── controllers/ # Route controllers ├── middlewares/ # Custom middlewares ├── models/ # Mongoose models ├── modules/ # API routes ├── services/ # Business logic ├── controller/ #routes
-├── utils/ # Utility functions ├── uploads/ # Profile picture storage ├── .env # Environment variables ├── app.js # Express application ├── server.js # Server entry point └── package.json Security Features 🔒 Asymmetric JWT signing/verification
+├── controllers/ # Route controllers
+├── middlewares/ # Custom middlewares
+├── models/ # Mongoose models 
+├── modules/ # API routes
+├── services/ # Business logic 
+├── controller/ #routes
+├── utils/ # Utility functions 
+├── uploads/ # Profile picture storage
+├── .env # Environment variables
+├── app.js # Express application
+├── server.js # Server entry point 
+└── package.json
+
+
+Security Features 🔒 Asymmetric JWT signing/verification
 
 🔑 Environment variable protection
 
