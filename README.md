@@ -88,6 +88,7 @@ smart-note-app/
 
 Security Features 🔒 Asymmetric JWT signing/verification
 
+
 🔑 Environment variable protection
 
 🛡️ Rate limiting (10 requests/15min)
